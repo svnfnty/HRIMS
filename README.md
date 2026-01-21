@@ -1,4 +1,5 @@
 # HRIMS - Human Resource Information Management System
+[pds.bmp](https://github.com/user-attachments/files/24762992/pds.bmp)
 
 ## Project Overview
 HRIMS (Human Resource Information Management System) is a web-based application built with pure PHP and Bootstrap that manages human resource operations, including employee records, attendance tracking, leave management, and personal data sheet (PDS) generation.
